@@ -1,0 +1,4 @@
+build-bullseye-x86_64-chroot
+build-stable-x86_64-chroot
+cards-linux-standalone-bullseye
+cards-linux-standalone-stable
